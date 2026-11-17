@@ -1,0 +1,9 @@
+gender,age,tenure,P_approval_pct
+M,young,long,36.77
+M,young,short,7.36
+M,old,long,24.1
+M,old,short,2.51
+F,young,long,32.45
+F,young,short,6.65
+F,old,long,20.28
+F,old,short,2.13

@@ -1,0 +1,9 @@
+term,logit_coef
+intercept,-2.0566
+gender,0.0863
+age,0.4442
+tenure,1.1088
+g_a,-0.0113
+g_t,0.0168
+a_t,-0.1339
+g_a_t,0.0038

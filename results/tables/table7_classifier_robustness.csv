@@ -1,0 +1,5 @@
+model,CDR,three_way_logit,additive_pred_pct,actual_pct
+Random Forest,17.3,0.0038,2.42,2.13
+Logistic regression,6.3,-0.0119,10.78,9.1
+Gradient boosting,17.0,-0.001,2.5,2.24
+Hist. gradient boosting,10.1,-0.0037,6.25,5.74

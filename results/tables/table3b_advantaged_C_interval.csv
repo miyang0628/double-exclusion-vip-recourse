@@ -1,0 +1,2 @@
+estimate_pct,bootstrap_lo_pct,bootstrap_hi_pct,wilson_lo_pct,wilson_hi_pct
+15.0,10.0,20.0,10.71,20.61

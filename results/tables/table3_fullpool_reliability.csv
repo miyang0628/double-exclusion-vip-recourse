@@ -1,0 +1,4 @@
+scenario,RR_pct,n_reliable,BR_RR_pct,upper95_pct
+A,100.0,0,0.0,0.469
+B,100.0,0,0.0,0.469
+C,0.13,1,0.127,0.708

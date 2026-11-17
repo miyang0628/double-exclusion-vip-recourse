@@ -1,0 +1,5 @@
+group,scenario,P_imm_pct,P_act_pct,P_non_pct
+advantaged,A,19.8,95.2,25.9
+advantaged,B,0.0,98.1,28.5
+disadvantaged,A,74.9,96.8,45.6
+disadvantaged,B,0.0,100.0,64.9

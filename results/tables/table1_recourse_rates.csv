@@ -1,0 +1,7 @@
+group,scenario,RR_pct,PR_RR_pct,BR_RR_pct
+advantaged,A,100.0,0.0,0.0
+advantaged,B,100.0,0.0,0.0
+advantaged,C,15.0,99.07,15.0
+disadvantaged,A,100.0,0.0,0.0
+disadvantaged,B,100.0,0.0,0.0
+disadvantaged,C,0.0,0.0,0.0
